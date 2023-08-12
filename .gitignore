@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+# Local sandbox
+.DS_Store
+.vscode/
+chrome-session/
